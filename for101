@@ -6,3 +6,12 @@ def mifuncion(a,b):
     for i in range(0,n):
         resultado[i] = a[i] + b[i]
     return resultado
+
+    
+def func(param1, param2): #puede haber más parámetros
+    #statements
+    return #return_values
+    #Así llamamos a la función anterior
+p1 = 2
+p2 = -5
+func(p1, p2)
